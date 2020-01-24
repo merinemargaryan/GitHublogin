@@ -1,0 +1,94 @@
+1579871410906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQHFnBu"
+1579871414158	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579871414438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579871414438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579871414438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579871414438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1579871419035	Marionette	INFO	Listening on port 56503
+1579871421146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579871432771	Marionette	INFO	Stopped listening on port 56503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Addon@XPIInstall.jsm:4370:7
+1579867563827	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867563828	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867564115	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867564116	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867564333	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867564334	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867564549	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867564549	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867565356	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1579867565356	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
